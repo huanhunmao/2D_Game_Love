@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Run love.app",
+        "type": "shell",
+        "command": "/Users/fhj/Desktop/github-pr/love.app",
+        "args": [
+          "${workspaceFolder}"
+        ],
+        "problemMatcher": []
+      }
+    ]
+  }
+  
